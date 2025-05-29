@@ -1,6 +1,8 @@
 import streamlit as st
 
-st.title("🎈 My new app")
+st.title("Random Password generator")
 st.write(
-    "Let's start building! For help and inspiration, !!!!!!!!!!head over to [docs.streamlit.io](https://docs.streamlit.io/)."
+    "This is a website built to investigate how to generate a password, to later encrypt it and crack it :)"
 )
+
+
